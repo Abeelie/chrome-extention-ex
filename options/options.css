@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(210, 19, 19);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin: 10px;
+    font-weight: normal;
+}
+
+#timer-option {
+    outline: none;
+    border: none;
+    width: 300px;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+h2 {
+    font-weight: normal;
+    color: white;
+}
+
+#save-btn {
+    display: block;
+    margin-top: 40px;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    padding: 10px;
+    background-color: white;
+    color: red;
+    font-weight: bold;
+    cursor: pointer;
+}
+
